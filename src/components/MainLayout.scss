@@ -1,0 +1,19 @@
+@import '../scss/variables.scss';
+
+.main-layout {
+  padding: 0.5rem;
+}
+
+.header {
+  background: $midnight-blue;
+  .title {
+    padding: 0.5rem;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: $white;
+  }
+}
+
+.main-content {
+  padding: 0.5rem;
+}
